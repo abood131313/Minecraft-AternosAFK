@@ -1,6 +1,6 @@
 {
-	"ip":"Stars_MC.aternos.me",
+	"ip":"stars_mc.aternos.me",
 	"port": "32499",
-	"name": "NotABot",
+	"name": "staff",
 	"auto-night-skip":"true"
 }
